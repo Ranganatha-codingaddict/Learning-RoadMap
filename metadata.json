@@ -1,0 +1,6 @@
+{
+  "name": "SWE + AI Master Workbook",
+  "description": "The ultimate comprehensive syllabus and progress-tracking console for Software and AI Engineering. Master programming languages, DSA, system design, databases, DevOps, machine learning, Generative AI, and career preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
